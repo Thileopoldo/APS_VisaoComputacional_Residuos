@@ -2,6 +2,10 @@
 
 Aplicação em Python para a APS de Processamento Digital de Imagens e Visão Computacional (UNIP).
 
+##Video
+
+https://youtu.be/8A9xvoVNKck video de apresentação
+
 ## Tema
 
 Detecção e segmentação automática de resíduos plásticos em praias e rios.
